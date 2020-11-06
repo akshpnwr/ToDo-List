@@ -1,0 +1,29 @@
+nav{
+    margin: 0;
+    padding: 0;
+
+    height: 40px;
+    list-style: none;
+    background-color: #7200DD;
+
+    line-height: 40px;
+}
+
+li{
+    float: left;
+    border: 1px white solid;
+}
+
+a{
+
+    display: block;
+    text-decoration: none;
+    padding: 0 20px;
+    color:white ;
+
+}
+
+a:hover{
+    background-color: #7200DD;
+    color: white;
+}
